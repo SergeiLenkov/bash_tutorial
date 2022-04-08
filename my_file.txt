@@ -18,3 +18,4 @@ Butterfree	Bug	Flying
 Beedrill	Bug	Poison
 Pidgeot	Normal	Flying
 Dundarell Electric Flying
+Blackshoot Fire none
